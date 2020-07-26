@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4661df4350978cdff5eaa31b5a8aa01e",
+    "revision": "f678f34adf4341e4544f5c39fbb82ac3",
     "url": "/botan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/css/2.05d56aed.chunk.css"
   },
   {
-    "revision": "3b77ee5c46c226cb0514",
+    "revision": "e17f5a30e9b7f98c19d7",
     "url": "/botan/static/css/main.baba9b91.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/js/2.a2fa258d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b77ee5c46c226cb0514",
-    "url": "/botan/static/js/main.3116c7b7.chunk.js"
+    "revision": "e17f5a30e9b7f98c19d7",
+    "url": "/botan/static/js/main.af01b83f.chunk.js"
   },
   {
     "revision": "e5eb26451e5a08ec0fff",
