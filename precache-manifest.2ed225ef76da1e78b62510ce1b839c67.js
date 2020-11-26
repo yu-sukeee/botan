@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efeae41fbf918786f327624ad35f2122",
+    "revision": "d3a02655dd91ae3dbfaba7cc23ec5d21",
     "url": "/botan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/css/2.05d56aed.chunk.css"
   },
   {
-    "revision": "a092163962d683653dbd",
+    "revision": "0877a835583b7700b9e0",
     "url": "/botan/static/css/main.40c151ac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/js/2.28d33d05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a092163962d683653dbd",
-    "url": "/botan/static/js/main.88be6a49.chunk.js"
+    "revision": "0877a835583b7700b9e0",
+    "url": "/botan/static/js/main.6918ee72.chunk.js"
   },
   {
     "revision": "e5eb26451e5a08ec0fff",
@@ -120,16 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/media/image2.03047d98.jpg"
   },
   {
+    "revision": "2a212d5451af9e84b01046bcda418e6f",
+    "url": "/botan/static/media/image2.2a212d54.jpg"
+  },
+  {
     "revision": "5337c5d901ca2d5369fd9ad57f654fea",
     "url": "/botan/static/media/image2.5337c5d9.jpg"
   },
   {
     "revision": "58ac1843d75a1ee470b4738deaf358e2",
     "url": "/botan/static/media/image2.58ac1843.jpg"
-  },
-  {
-    "revision": "8fba480245946b5f508745fe17928831",
-    "url": "/botan/static/media/image2.8fba4802.jpg"
   },
   {
     "revision": "e03cc0f77cb42ea86bee687963b0c7ce",
@@ -332,6 +332,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/media/image7.96f0cb0a.jpg"
   },
   {
+    "revision": "46cf75b207b83262bd583fb0129735ae",
+    "url": "/botan/static/media/image8.46cf75b2.jpg"
+  },
+  {
     "revision": "4d0c98bbecbc57c39b2abf71e180c689",
     "url": "/botan/static/media/image8.4d0c98bb.jpg"
   },
@@ -342,10 +346,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2d40a8edd71fbd81bc6a8cfab72d090",
     "url": "/botan/static/media/image8.c2d40a8e.jpg"
-  },
-  {
-    "revision": "da110a0ef372ba29cd95ee9e8006b526",
-    "url": "/botan/static/media/image8.da110a0e.jpg"
   },
   {
     "revision": "da7c47ad894d9b7c24c7a7eb18b4aac2",
