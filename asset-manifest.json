@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/botan/static/css/main.40c151ac.chunk.css",
-    "main.js": "/botan/static/js/main.64c70542.chunk.js",
-    "main.js.map": "/botan/static/js/main.64c70542.chunk.js.map",
+    "main.js": "/botan/static/js/main.fba052ab.chunk.js",
+    "main.js.map": "/botan/static/js/main.fba052ab.chunk.js.map",
     "runtime-main.js": "/botan/static/js/runtime-main.3017e876.js",
     "runtime-main.js.map": "/botan/static/js/runtime-main.3017e876.js.map",
     "static/css/2.05d56aed.chunk.css": "/botan/static/css/2.05d56aed.chunk.css",
-    "static/js/2.fe6ba81a.chunk.js": "/botan/static/js/2.fe6ba81a.chunk.js",
-    "static/js/2.fe6ba81a.chunk.js.map": "/botan/static/js/2.fe6ba81a.chunk.js.map",
+    "static/js/2.ac23951d.chunk.js": "/botan/static/js/2.ac23951d.chunk.js",
+    "static/js/2.ac23951d.chunk.js.map": "/botan/static/js/2.ac23951d.chunk.js.map",
     "index.html": "/botan/index.html",
-    "precache-manifest.653150271e334c41e2222547929c631c.js": "/botan/precache-manifest.653150271e334c41e2222547929c631c.js",
+    "precache-manifest.e239ba0d73f0bbdd5d1269461ae29992.js": "/botan/precache-manifest.e239ba0d73f0bbdd5d1269461ae29992.js",
     "service-worker.js": "/botan/service-worker.js",
     "static/css/2.05d56aed.chunk.css.map": "/botan/static/css/2.05d56aed.chunk.css.map",
     "static/css/main.40c151ac.chunk.css.map": "/botan/static/css/main.40c151ac.chunk.css.map",
-    "static/js/2.fe6ba81a.chunk.js.LICENSE.txt": "/botan/static/js/2.fe6ba81a.chunk.js.LICENSE.txt",
+    "static/js/2.ac23951d.chunk.js.LICENSE.txt": "/botan/static/js/2.ac23951d.chunk.js.LICENSE.txt",
     "static/media/image1.jpg": "/botan/static/media/image1.f4e1f553.jpg",
     "static/media/image10.jpg": "/botan/static/media/image10.ca90a7e4.jpg",
-    "static/media/image11.jpg": "/botan/static/media/image11.dc047e17.jpg",
+    "static/media/image11.jpg": "/botan/static/media/image11.f1cafa36.jpg",
     "static/media/image12.jpg": "/botan/static/media/image12.f2a93a9a.jpg",
     "static/media/image123.jpg": "/botan/static/media/image123.179c40c5.jpg",
-    "static/media/image13.jpg": "/botan/static/media/image13.47a3e9e8.jpg",
+    "static/media/image13.jpg": "/botan/static/media/image13.d12c313e.jpg",
     "static/media/image14.jpg": "/botan/static/media/image14.580aba5f.jpg",
-    "static/media/image15.jpg": "/botan/static/media/image15.2928a392.jpg",
+    "static/media/image15.jpg": "/botan/static/media/image15.bc9214f2.jpg",
     "static/media/image16.jpg": "/botan/static/media/image16.287dabff.jpg",
     "static/media/image17.jpg": "/botan/static/media/image17.a114f917.jpg",
     "static/media/image18.jpg": "/botan/static/media/image18.657689b3.jpg",
@@ -66,8 +66,8 @@
   "entrypoints": [
     "static/js/runtime-main.3017e876.js",
     "static/css/2.05d56aed.chunk.css",
-    "static/js/2.fe6ba81a.chunk.js",
+    "static/js/2.ac23951d.chunk.js",
     "static/css/main.40c151ac.chunk.css",
-    "static/js/main.64c70542.chunk.js"
+    "static/js/main.fba052ab.chunk.js"
   ]
 }
