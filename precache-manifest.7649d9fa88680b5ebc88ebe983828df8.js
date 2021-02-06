@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fce64a08b84e50536384d8b5d78e34d",
+    "revision": "88102aca3b609883db79d41685909f77",
     "url": "/botan/index.html"
   },
   {
-    "revision": "4596a0e25eadc1b9d1cf",
+    "revision": "2afba0c280dd9da4299b",
     "url": "/botan/static/css/2.05d56aed.chunk.css"
   },
   {
-    "revision": "d697b6198c09595c6d1b",
+    "revision": "0ba16307631b31717ef7",
     "url": "/botan/static/css/main.40c151ac.chunk.css"
   },
   {
-    "revision": "4596a0e25eadc1b9d1cf",
-    "url": "/botan/static/js/2.ac23951d.chunk.js"
+    "revision": "2afba0c280dd9da4299b",
+    "url": "/botan/static/js/2.b359aafd.chunk.js"
   },
   {
     "revision": "edbc79938c564134066dc08722bf82e3",
-    "url": "/botan/static/js/2.ac23951d.chunk.js.LICENSE.txt"
+    "url": "/botan/static/js/2.b359aafd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d697b6198c09595c6d1b",
-    "url": "/botan/static/js/main.fba052ab.chunk.js"
+    "revision": "0ba16307631b31717ef7",
+    "url": "/botan/static/js/main.a92c86a4.chunk.js"
   },
   {
     "revision": "e5eb26451e5a08ec0fff",
     "url": "/botan/static/js/runtime-main.3017e876.js"
+  },
+  {
+    "revision": "c1dab8c5b6884672446d40766c924c82",
+    "url": "/botan/static/media/facebook-logo.c1dab8c5.svg"
   },
   {
     "revision": "01db00424032903cc9a490fe99749ca8",
@@ -392,16 +396,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/botan/static/media/image9.d1f64ca5.jpg"
   },
   {
-    "revision": "31cbdb6a4d1b83a12db9f3cce3bf2663",
-    "url": "/botan/static/media/instagram-dlogo.31cbdb6a.png"
+    "revision": "2f31786aa582f5efbf86ab7bfadd0144",
+    "url": "/botan/static/media/instagram-logo.2f31786a.svg"
   },
   {
     "revision": "5a58255f35e8cb9e39c29c0284fe3fcd",
     "url": "/botan/static/media/instagram-mlogo.5a58255f.png"
   },
   {
-    "revision": "4f1bd9cecefca4abcd793512ffdae5ec",
-    "url": "/botan/static/media/twitter-dlogo.4f1bd9ce.png"
+    "revision": "04c2ec16f9da38c85fb817f315d5d3b2",
+    "url": "/botan/static/media/twitter-logo.04c2ec16.svg"
   },
   {
     "revision": "50fb12e397670e11e32c233818ea3140",

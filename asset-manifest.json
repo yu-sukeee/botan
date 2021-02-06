@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/botan/static/css/main.40c151ac.chunk.css",
-    "main.js": "/botan/static/js/main.fba052ab.chunk.js",
-    "main.js.map": "/botan/static/js/main.fba052ab.chunk.js.map",
+    "main.js": "/botan/static/js/main.a92c86a4.chunk.js",
+    "main.js.map": "/botan/static/js/main.a92c86a4.chunk.js.map",
     "runtime-main.js": "/botan/static/js/runtime-main.3017e876.js",
     "runtime-main.js.map": "/botan/static/js/runtime-main.3017e876.js.map",
     "static/css/2.05d56aed.chunk.css": "/botan/static/css/2.05d56aed.chunk.css",
-    "static/js/2.ac23951d.chunk.js": "/botan/static/js/2.ac23951d.chunk.js",
-    "static/js/2.ac23951d.chunk.js.map": "/botan/static/js/2.ac23951d.chunk.js.map",
+    "static/js/2.b359aafd.chunk.js": "/botan/static/js/2.b359aafd.chunk.js",
+    "static/js/2.b359aafd.chunk.js.map": "/botan/static/js/2.b359aafd.chunk.js.map",
     "index.html": "/botan/index.html",
-    "precache-manifest.e239ba0d73f0bbdd5d1269461ae29992.js": "/botan/precache-manifest.e239ba0d73f0bbdd5d1269461ae29992.js",
+    "precache-manifest.7649d9fa88680b5ebc88ebe983828df8.js": "/botan/precache-manifest.7649d9fa88680b5ebc88ebe983828df8.js",
     "service-worker.js": "/botan/service-worker.js",
     "static/css/2.05d56aed.chunk.css.map": "/botan/static/css/2.05d56aed.chunk.css.map",
     "static/css/main.40c151ac.chunk.css.map": "/botan/static/css/main.40c151ac.chunk.css.map",
-    "static/js/2.ac23951d.chunk.js.LICENSE.txt": "/botan/static/js/2.ac23951d.chunk.js.LICENSE.txt",
+    "static/js/2.b359aafd.chunk.js.LICENSE.txt": "/botan/static/js/2.b359aafd.chunk.js.LICENSE.txt",
+    "static/media/facebook-logo.svg": "/botan/static/media/facebook-logo.c1dab8c5.svg",
     "static/media/image1.jpg": "/botan/static/media/image1.f4e1f553.jpg",
     "static/media/image10.jpg": "/botan/static/media/image10.ca90a7e4.jpg",
     "static/media/image11.jpg": "/botan/static/media/image11.f1cafa36.jpg",
@@ -58,16 +59,16 @@
     "static/media/image7.jpg": "/botan/static/media/image7.96f0cb0a.jpg",
     "static/media/image8.jpg": "/botan/static/media/image8.da7c47ad.jpg",
     "static/media/image9.jpg": "/botan/static/media/image9.d1f64ca5.jpg",
-    "static/media/instagram-dlogo.png": "/botan/static/media/instagram-dlogo.31cbdb6a.png",
+    "static/media/instagram-logo.svg": "/botan/static/media/instagram-logo.2f31786a.svg",
     "static/media/instagram-mlogo.png": "/botan/static/media/instagram-mlogo.5a58255f.png",
-    "static/media/twitter-dlogo.png": "/botan/static/media/twitter-dlogo.4f1bd9ce.png",
+    "static/media/twitter-logo.svg": "/botan/static/media/twitter-logo.04c2ec16.svg",
     "static/media/twitter-mlogo.png": "/botan/static/media/twitter-mlogo.50fb12e3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3017e876.js",
     "static/css/2.05d56aed.chunk.css",
-    "static/js/2.ac23951d.chunk.js",
+    "static/js/2.b359aafd.chunk.js",
     "static/css/main.40c151ac.chunk.css",
-    "static/js/main.fba052ab.chunk.js"
+    "static/js/main.a92c86a4.chunk.js"
   ]
 }
