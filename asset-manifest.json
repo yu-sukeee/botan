@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/botan/static/css/main.40c151ac.chunk.css",
-    "main.js": "/botan/static/js/main.a92c86a4.chunk.js",
-    "main.js.map": "/botan/static/js/main.a92c86a4.chunk.js.map",
+    "main.js": "/botan/static/js/main.cde337af.chunk.js",
+    "main.js.map": "/botan/static/js/main.cde337af.chunk.js.map",
     "runtime-main.js": "/botan/static/js/runtime-main.3017e876.js",
     "runtime-main.js.map": "/botan/static/js/runtime-main.3017e876.js.map",
     "static/css/2.05d56aed.chunk.css": "/botan/static/css/2.05d56aed.chunk.css",
     "static/js/2.b359aafd.chunk.js": "/botan/static/js/2.b359aafd.chunk.js",
     "static/js/2.b359aafd.chunk.js.map": "/botan/static/js/2.b359aafd.chunk.js.map",
     "index.html": "/botan/index.html",
-    "precache-manifest.7649d9fa88680b5ebc88ebe983828df8.js": "/botan/precache-manifest.7649d9fa88680b5ebc88ebe983828df8.js",
+    "precache-manifest.14b65968b74ae332dfd683f3a7a29920.js": "/botan/precache-manifest.14b65968b74ae332dfd683f3a7a29920.js",
     "service-worker.js": "/botan/service-worker.js",
     "static/css/2.05d56aed.chunk.css.map": "/botan/static/css/2.05d56aed.chunk.css.map",
     "static/css/main.40c151ac.chunk.css.map": "/botan/static/css/main.40c151ac.chunk.css.map",
@@ -69,6 +69,6 @@
     "static/css/2.05d56aed.chunk.css",
     "static/js/2.b359aafd.chunk.js",
     "static/css/main.40c151ac.chunk.css",
-    "static/js/main.a92c86a4.chunk.js"
+    "static/js/main.cde337af.chunk.js"
   ]
 }
